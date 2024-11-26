@@ -1,4 +1,4 @@
-with open('/home/lisa/workspace/github.com/elisia-y/bookbot/frankenstein.txt') as f:
+with open('/home/lisa/workspace/github.com/elisia-y/bookbot/books/frankenstein.txt') as f:
     file_contents = f.read()
 
 
